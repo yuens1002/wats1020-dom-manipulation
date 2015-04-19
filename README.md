@@ -11,8 +11,11 @@ You will use many of the core features discussed in the tutorials at [learn.jQue
 In order to successfully complete this assignment, you need to fulfill these goals:
 
 * Create a pseudo-login effect by replacing the login form with some mock user data when the user clicks the "login" button.
-* Activate all the "view details" buttons so that they show the appropriate hidden content (marked with the `details` class) when clicked.
+* Activate all the "view details" buttons so that they show the appropriate hidden content (marked with the `details` class) when clicked, and then hide the same content when clicked again.
+  * Alter the text of the "view details" button that was clicked so it becomes "hide details" and allows the user to understand that these buttons work to toggle the display of content.
 * Activate the vote buttons so they properly register, count, and display voting activity. (NOTE: For the basic requirements, these votes do not need to persist across page refreshes, and each user should be able to vote multiple times.)
+
+Additional information about fulfilling these basic requirements is provided in the comments of `js/main.js`.
 
 ## Stretch Requirements
 If you feel up to a larger challenge, try to hit these goals:
