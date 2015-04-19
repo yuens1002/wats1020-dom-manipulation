@@ -1,8 +1,6 @@
 # wats1020-dom-manipulation
 An assignment designed to demonstrate the ability to manipulate the DOM by creating, removing and modifying elements.
 
-THIS ASSIGNMENT IS NOT YET COMPLETED. PLEASE DO NOT BEGIN WORK ON IT YET.
-
 In order to practice DOM manipulation with the help of jQuery, we will fill in information and interactive actions on a page just as we would on a regular website. We will use a Javascript Object called `userProfile` to provide imaginary user profile information, as if that had been delivered via an Ajax (XHR) request or some other server mechanism. We will also improve the interactivity of the content by providing some show/hide features and style updating.
 
 You will use many of the core features discussed in the tutorials at [learn.jQuery](http://learn.jquery.com). That site is a great resource to help you fulfill the following requirements.
